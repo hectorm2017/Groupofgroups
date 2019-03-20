@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
+
+body { /* General style rules for the body section */
+	background-color:orange;
+	color: lightgreen;
+	text-align: center;
+	font-family: 'ZCOOL XiaoWei', serif;
+}
+#div1 {
+	background-color: gray;
+	color: hotpink;
+
+	border-style: solid groove;
+	border-width: 5px;
+	border-color: green;
+	margin: 5%;
+	padding: 6px;
+}
+
+#SimpleDiv { /* Matches element with id=SimpleDiv */
+	background-color: gray;
+
+	color: hotpink;
+
+
+	border-style: solid groove;
+  border-width: 5px;
+	border-color: green;
+}
