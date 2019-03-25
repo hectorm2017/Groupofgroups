@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
 
 body { /* General style rules for the body section */
 	background-color:white;
@@ -9,6 +10,28 @@ body { /* General style rules for the body section */
     height: 125vh;
     margin-top: 80px;
     padding: 30px;
+		overflow: auto;
+}
+h1 {
+	color: #3578e7;
+	text-align: left;
+	font-family: 'Comfortaa', cursive;
+	font-size: 50px;
+}
+hr {
+	width: 325px;
+	margin-left: inherit;
+	margin-right: inherit;
+	height: 3px;
+	background-color:#3578e7;
+}
+p {
+	color: black;
+	padding-left: 150px;
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 20px;
+	line-height: 1.6
 }
 #div1 {
 	background-color: gray;
