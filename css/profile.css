@@ -64,14 +64,16 @@ h2 {
 }
 
 .button {
-	background-color: #4CAF50;
+background-color: #4CAF50;
   border: none;
   color: white;
   padding: 15px 25px;
   text-align: center;
   font-size: 16px;
   cursor: pointer;
-  position: relative; top:-1400px; right: -700px;
+  position: absolute;
+  right:50px;
+  top:100px;
 }
 
 .button:hover {
