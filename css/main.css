@@ -10,27 +10,6 @@ body { /* General style rules for the body section */
     margin-top: 80px;
     padding: 30px;
 }
-#div1 {
-	background-color: gray;
-	color: hotpink;
-
-	border-style: solid groove;
-	border-width: 5px;
-	border-color: green;
-	margin: 5%;
-	padding: 6px;
-}
-
-#SimpleDiv { /* Matches element with id=SimpleDiv */
-	background-color: gray;
-
-	color: hotpink;
-
-
-	border-style: solid groove;
-  border-width: 5px;
-	border-color: green;
-}
 
 header img {
     height: 80px;
