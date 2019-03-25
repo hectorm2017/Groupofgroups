@@ -10,7 +10,6 @@ body { /* General style rules for the body section */
     height: 125vh;
     margin-top: 80px;
     padding: 30px;
-		overflow: auto;
 }
 h1 {
 	color: #3578e7;
