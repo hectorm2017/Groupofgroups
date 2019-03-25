@@ -7,7 +7,7 @@ body { /* General style rules for the body section */
 	text-align: center;
 	background-size: cover;
     font-family: sans-serif;
-    height: 125vh;
+    height: 80vh;
     margin-top: 80px;
     padding: 30px;
 }
@@ -17,13 +17,36 @@ h1 {
 	font-family: 'Comfortaa', cursive;
 	font-size: 50px;
 }
-hr {
-	width: 325px;
-	margin-left: inherit;
-	margin-right: inherit;
-	height: 3px;
-	background-color:#3578e7;
+h2 {
+	color: #3578e7;
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+	font-size: 300px;
+	-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
 }
+h3 {
+	color: #3578e7;
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+	font-size: 50px;
+	margin-bottom: 10px;
+}
+.other {
+	color: #333333;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 20px;
+	margin-bottom: 10px;
+	line-height: 1.6
+	top:0;
+}
+
 p {
 	color: black;
 	padding-left: 150px;
