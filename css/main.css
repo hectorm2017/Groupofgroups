@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
 
-body { /* General style rules for the body section */
+body {
 	background-color:white;
-	color: lightgreen;
+	color: #3578e7;
 	text-align: center;
 	background-size: cover;
     font-family: sans-serif;
@@ -39,4 +39,10 @@ header li a {
     color: white;
     text-decoration: none;
     font-family: sans-serif;
+}
+
+#james {
+	display: block;
+  	width: 10%;
+  	padding: 30px;
 }
