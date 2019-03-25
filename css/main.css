@@ -148,17 +148,3 @@ header li a {
 	width: 20%;
 	margin: 0 auto;
 }
-
-#jamesprofile {
-	display: block;
-	width: 20%;
-	margin-right: auto;
-}
-
-h2 {
-	font-family: "Comfortaa";
-	display: flex;
-	align-items: left;
-	margin: 50px;
-	padding-left: 55px;
-}

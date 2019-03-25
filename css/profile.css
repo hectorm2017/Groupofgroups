@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+#jamestext {
+	font-family: "Comfortaa";
+	font-size: 80;
+	display: flex;
+	align-items: left;
+}
+
+body { /* General style rules for the body section */
+	background-color:white;
+	color: black;
+	text-align: center;
+	background-size: cover;
+    font-family: sans-serif;
+    height: 80vh;
+    margin-top: 80px;
+    padding: 30px;
+}
+
+
+header img {
+    height: 80px;
+    margin-left: 60px;
+}
+
+header {
+    background-color: #3578e7;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+header * {
+    display: inline;
+}
+
+header li {
+    margin: 20px;
+}
+
+header li a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Comfortaa';
+}
+
+#jamesprofile {
+	display: block;
+	width: 20%;
+	margin-right: auto;
+}
+
+h2 {
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Comfortaa";
+	position:relative; top: -400px;
+}
