@@ -34,6 +34,19 @@ h3 {
 	color: #3578e7;
 	text-align: center;
 	font-family: 'Comfortaa', cursive;
+	font-size: 300px;
+	-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+h4 {
+	color: #3578e7;
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
 	font-size: 50px;
 	margin-bottom: 10px;
 }
@@ -132,13 +145,13 @@ header li a {
 
 #james {
 	display: block;
-	width: 20%; 
+	width: 20%;
 	margin: 0 auto;
 }
 
 #jamesprofile {
 	display: block;
-	width: 20%; 
+	width: 20%;
 	margin-right: auto;
 }
 
